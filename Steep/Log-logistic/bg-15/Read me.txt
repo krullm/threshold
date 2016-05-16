@@ -1,0 +1,1 @@
+Datasets created with a (i) log-logistic model, (ii) steep slope (b=10) and (iii) background mortality equalts to 0.15
