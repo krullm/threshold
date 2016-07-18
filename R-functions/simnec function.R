@@ -27,7 +27,7 @@
 # exposed to an effluent with the equation
 
 # P(y_j )=int^([-b (x_j - c) I (x_j - c)]),	 	
-# I(x_j-c)= (1,x> c ; 0,x ???c)
+# I(x_j-c)= (1,x> c ; 0,x <=c)
 
 #where (i) P(y_j ) is the survival probability in the x_j concentration, 
 # (ii) l is the intercept, 
@@ -42,7 +42,7 @@
 
 ### References
 # Fox DR. 2010. A Bayesian approach for determining the no effect concentration and hazardous concentration in ecotoxicology. Ecotoxicol Environ Saf 73:123-131.
-# Pires AM, Branco JA, Picado A, Mendonça E. 2002. Models for the estimation of a 'no effect concentration'.   Environmetrics 13:15-27
+# Pires AM, Branco JA, Picado A, MendonÃ§a E. 2002. Models for the estimation of a 'no effect concentration'.   Environmetrics 13:15-27
 
 
 #### Examples
