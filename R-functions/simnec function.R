@@ -38,11 +38,10 @@
   
 #### Value
 # simnec returns a matrix with n datasets (columns). The row names indicates the concentrations.
-# Note that concentrations (x) needs to be between 0 and 1 to generate the data.
 
 ### References
 # Fox DR. 2010. A Bayesian approach for determining the no effect concentration and hazardous concentration in ecotoxicology. Ecotoxicol Environ Saf 73:123-131.
-# Pires AM, Branco JA, Picado A, Mendonça E. 2002. Models for the estimation of a 'no effect concentration'.   Environmetrics 13:15-27
+# Pires AM, Branco JA, Picado A, MendonÃ§a E. 2002. Models for the estimation of a 'no effect concentration'.   Environmetrics 13:15-27
 
 
 #### Examples
